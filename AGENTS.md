@@ -33,8 +33,8 @@ When creating or updating content, an agent must:
 
 ### ❌ Avoid
 
-* लंबी theoretical explanations without application
-* अस्पষ্ট বা ambiguous instructions
+* Theoretical explanations without application
+* Ambiguous instructions
 * Copy-pasting from external sources without adaptation
 * Breaking the document structure
 
